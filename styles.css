@@ -63,7 +63,6 @@ p.font-lg {
 	padding: 6em;
 	background: var(--clr-white);
 	border: var(--brdr-sm-gray);
-	height: 100em;
 }
 
 .flex-row {
